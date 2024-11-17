@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Do you like chicken wings?
 ---
 
